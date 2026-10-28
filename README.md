@@ -55,5 +55,37 @@ Screenshots and investigation notes will be added after sensitive information is
 - Controlled security testing
 - Technical documentation
 
+## Project Evidence
+
+### 1. Wazuh Dashboard Login
+![Wazuh Dashboard Login](01-wazuh-dashboard-login.png)
+
+### 2. Wazuh Dashboard Overview
+![Wazuh Dashboard Overview](02-wazuh-dashboard-overview.png)
+
+### 3. Wazuh Security Alerts
+![Wazuh Security Alerts](03-wazuh-alerts-list.png)
+
+### 4. Windows Event Investigation
+![Windows Event Details](04-windows-event-details.png)
+
+### 5. Windows Logon Audit Policy
+![Windows Logon Audit Policy](05-windows-logon-audit-policy.png)
+
+### 6. Custom Wazuh Rules Dashboard
+![Custom Wazuh Rules Dashboard](06-custom-wazuh-rules-dashboard.png)
+
+### 7. Custom Rules Terminal Evidence
+![Custom Rules Terminal Evidence](07-custom-rules-terminal-evidence.png)
+
+### 8. Windows Event Log Evidence
+![Windows Event Log Evidence](08-windows-event-log-evidence.png)
+
+### 9. Wazuh Alert Investigation
+![Wazuh Alert Investigation](09-wazuh-alert-investigation.png)
+
+### 10. Sysmon Process Event
+![Sysmon Process Event](10-sysmon-process-event.png)
+
 ## Disclaimer
 This project was conducted in a personal lab environment for educational purposes. Testing was limited to systems under my control.
